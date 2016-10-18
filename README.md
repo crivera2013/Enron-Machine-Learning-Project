@@ -2,6 +2,7 @@
 Designing machine learning algorithms
 This project for udacity was to create a machine learning algorithm that analyzed Enron financial and email data to predict persons of interest in the Enron fraud case.
 This code includes:
+
 1. cleaning the data.
 2. designing new metrics.
 3. implementing different machine learning algorithms.
